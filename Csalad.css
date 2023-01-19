@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: wheat;
+  }
+  
+  header {
+    background-color: #f1f1f1;
+    color: #333;
+    text-align: center;
+    padding: 1em;
+  }
+  
+  header a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .row {
+    display: flex;
+  }
+  
+  .col-12 {
+    flex: 1;
+    text-align: center;
+  }
+  
+  #back-button {
+    display: block;
+    margin: 1em 0;
+  }
+  img{
+    width: 500px;
+    float: left
+  }
+ 
